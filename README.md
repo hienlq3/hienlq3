@@ -33,6 +33,7 @@ Chuyên về các sản phẩm dạng **nền tảng quản lý vận hành doan
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Automation Testing](https://img.shields.io/badge/Automation%20Testing-25D366?style=flat-square&logo=selenium&logoColor=white)
 
 ---
 
