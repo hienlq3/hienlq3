@@ -1,25 +1,25 @@
-### Xin chào, tôi là Hiển 👋
+### Hi, I'm Hiển 👋
 
 ERP Developer | Software Engineer
 
-Tôi phát triển phần mềm trên nhiều nền tảng — từ web, mobile đến các hệ thống AI Agentic — với trọng tâm là các giải pháp quản lý doanh nghiệp (ERP) và hệ thống quản lý ticket.
+I build software across multiple platforms — from web and mobile to AI Agentic systems — with a focus on enterprise management (ERP) solutions and ticket management systems.
 
-Chuyên về các sản phẩm dạng **nền tảng quản lý vận hành doanh nghiệp**: hệ thống workflow/quy trình, quản lý công việc/job, phê duyệt, tự động hóa tác nghiệp trên cả web và mobile.
-
----
-
-**Lĩnh vực làm việc**
-
-- 🖥️ **Web Development** — xây dựng và duy trì các hệ thống web phục vụ nghiệp vụ doanh nghiệp
-- 📱 **Mobile Development** — phát triển ứng dụng di động
-- 🤖 **AI Engineering / Agentic AI** — thiết kế và triển khai các hệ thống AI tác tử (agentic), tích hợp AI vào quy trình vận hành
-- 🏢 **ERP Systems** — xây dựng module quản lý nguồn lực doanh nghiệp (ERP)
-- 🎫 **Ticket Management Systems** — phát triển hệ thống quản lý ticket/yêu cầu hỗ trợ
-- 🧪 **Automation Testing** — xây dựng và duy trì các bộ test tự động để đảm bảo chất lượng phần mềm
+Specialized in **enterprise operations management platforms**: workflow/process systems, job/task management, approval flows, and operational automation across both web and mobile.
 
 ---
 
-**Công nghệ sử dụng**
+**Areas of Work**
+
+- 🖥️ **Web Development** — building and maintaining web systems for enterprise operations
+- 📱 **Mobile Development** — developing mobile applications
+- 🤖 **AI Engineering / Agentic AI** — designing and implementing agentic AI systems, integrating AI into operational workflows
+- 🏢 **ERP Systems** — building enterprise resource planning (ERP) modules
+- 🎫 **Ticket Management Systems** — developing ticket/support request management systems
+- 🧪 **Automation Testing** — building and maintaining automated test suites to ensure software quality
+
+---
+
+**Tech Stack**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
@@ -38,7 +38,7 @@ Chuyên về các sản phẩm dạng **nền tảng quản lý vận hành doan
 
 ---
 
-**Đang tìm hiểu**
+**Currently Exploring**
 
 - 🧠 Hermes Agent & AI Agent (agentic AI)
 - 🏗️ System Design
@@ -46,11 +46,11 @@ Chuyên về các sản phẩm dạng **nền tảng quản lý vận hành doan
 
 ---
 
-**Kết nối**
+**Connect**
 
 - 📧 lequyhien2908@gmail.com
 - 💻 [github.com/hienlq3](https://github.com/hienlq3)
 
 ---
 
-<sub>README này được cập nhật thủ công — các project chi tiết xem tại các repo tương ứng trên profile.</sub>
+<sub>This README is updated manually — see the corresponding repos on this profile for detailed projects.</sub>
