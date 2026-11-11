@@ -15,6 +15,7 @@ Chuyên về các sản phẩm dạng **nền tảng quản lý vận hành doan
 - 🤖 **AI Engineering / Agentic AI** — thiết kế và triển khai các hệ thống AI tác tử (agentic), tích hợp AI vào quy trình vận hành
 - 🏢 **ERP Systems** — xây dựng module quản lý nguồn lực doanh nghiệp (ERP)
 - 🎫 **Ticket Management Systems** — phát triển hệ thống quản lý ticket/yêu cầu hỗ trợ
+- 🧪 **Automation Testing** — xây dựng và duy trì các bộ test tự động để đảm bảo chất lượng phần mềm
 
 ---
 
