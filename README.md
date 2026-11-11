@@ -34,6 +34,14 @@ Tôi phát triển phần mềm trên nhiều nền tảng — từ web, mobile 
 
 ---
 
+**Đang tìm hiểu**
+
+- 🧠 Hermes Agent & AI Agent (agentic AI)
+- 🏗️ System Design
+- 📲 Mobile + AI Integrations
+
+---
+
 **Kết nối**
 
 - 📧 lequyhien2908@gmail.com
