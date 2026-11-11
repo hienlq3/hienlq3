@@ -4,6 +4,8 @@ ERP Developer | Software Engineer
 
 Tôi phát triển phần mềm trên nhiều nền tảng — từ web, mobile đến các hệ thống AI Agentic — với trọng tâm là các giải pháp quản lý doanh nghiệp (ERP) và hệ thống quản lý ticket.
 
+Chuyên về các sản phẩm dạng **nền tảng quản lý vận hành doanh nghiệp** (kiểu Joblogic, FPT SPro): hệ thống workflow/quy trình, quản lý công việc/job, phê duyệt, tự động hóa tác nghiệp trên cả web và mobile.
+
 ---
 
 **Lĩnh vực làm việc**
